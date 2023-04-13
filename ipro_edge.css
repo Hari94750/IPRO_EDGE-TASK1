@@ -1,0 +1,96 @@
+#hari{
+    border: 2px solid rgb(209, 226, 232);    
+    border-radius: 20px;
+    width: 7%;
+    position: relative;
+    left: 47%;
+    padding:10px
+}
+.div{
+    position: relative;
+    left:490px ;
+    display: grid;
+    grid-template-columns: 10px 90px;
+    height: 40px;
+    width:350px;
+    border:1px solid rgb(111, 106, 106);
+    border-radius: 14px; 
+}
+#email{
+    position: absolute;
+    top:10px;
+    left: 20px;
+     
+}
+#hari2{
+    background: transparent;
+    padding: 8px;
+    width: 310px;     
+    color: white;
+    margin-left: 2%;
+    border:1px solid transparent;
+    outline: 0;
+    position: absolute;
+    left:35px
+}
+#div1{
+    position: relative;
+    left:490px ;
+    display: grid;
+    grid-template-columns: 10px 90px;
+    height: 40px;
+    width:350px;
+    border:1px solid rgb(111, 106, 106);
+    border-radius: 14px;  
+}
+
+#hari3{
+    background: transparent;
+    padding: 8px;
+    width: 310px;     
+    color: white;
+    margin-left: 2%;
+    border:1px solid transparent;
+    outline: 0;
+    position: absolute;
+    left:35px
+
+}
+#user{
+    position: absolute;
+    top:10px;
+    left: 20px;
+}
+#hari4{
+    padding: 8px;
+    width: 350px;
+    border-radius: 14px;
+    background-color: red;
+    
+    border: 1px solid red;
+    
+}
+
+#navi{
+
+   text-align: center;
+   background-image: url("https://th.bing.com/th/id/OIP.9LvwTV0LP3a2kA_1MkIfFQHaEo?pid=ImgDet&rs=1");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 700px;
+   padding-top: 150px;
+}
+
+b{
+     color: white;
+    font-size: 16px;
+
+}
+h5{
+    background-color: rgb(54, 172, 172);
+    width: 50px;
+    position: relative;
+    top:0px;
+    left:20px
+}
+
